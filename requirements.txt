@@ -1,0 +1,7 @@
+streamlit==1.35.0
+openai==1.14.3
+python-dotenv==1.0.1
+gTTS==2.5.1
+SpeechRecognition==3.10.1
+pandas==2.2.1
+fpdf==1.7.2
